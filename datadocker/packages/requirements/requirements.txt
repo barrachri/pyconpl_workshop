@@ -1,0 +1,6 @@
+# Math/Stats/Machine Learning libraries
+numpy
+scipy
+scikit-learn==0.17.1
+tweepy
+jupyter
